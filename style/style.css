@@ -1,0 +1,42 @@
+html, body{
+    text-align: center;
+}
+
+.boxes
+{
+    background: #dfdfdf;
+    padding: 4px;
+    margin-bottom: 1rem
+
+}
+
+.boxes button
+{
+    margin: 5px;
+    border-radius: 10px;
+    outline: 0
+}
+
+.play{
+    background: black;
+}
+.pause{
+    background: red;
+}
+.boxes i
+{
+    margin: 5px;
+    color: #2ecc71
+}
+
+.box {
+    display: inline-block;
+    margin: 4px;
+    width: 100px;
+    height: 100px;
+}
+
+.red{background: red}
+.blue{background: blue}
+.green{background: green}
+.yellow{background: yellow}
